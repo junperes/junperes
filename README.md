@@ -26,4 +26,4 @@ I'm a passionate Data Analyst with a background in Physics, currently embarking 
 <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&amp;logo=scikit-learn&amp;logoColor=white" alt="scikit-learn" />
 </p>
 
-![Visitor Badge](http://hits.dwyl.com/juliananperes/juliananperes/junperes.svg?style=flat-square)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjunperes%2Fjunperes&countColor=%23263759)
