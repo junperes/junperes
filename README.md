@@ -24,6 +24,7 @@ I'm a passionate Data Analyst with a background in Physics, currently embarking 
 <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&amp;logo=python&amp;logoColor=white" alt="matplotlib" />
 <img src="https://img.shields.io/badge/-Seaborn-379F7E?style=flat-square&amp;logo=python&amp;logoColor=white" alt="seaborn" />
 <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&amp;logo=scikit-learn&amp;logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/-Plotly-531777?style=flat-square&amp;logo=plotly&amp;logoColor=white" alt="Plotly">
 </p>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjunperes%2Fjunperes&countColor=%23263759)
